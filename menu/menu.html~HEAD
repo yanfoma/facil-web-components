@@ -1,8 +1,6 @@
 <template id="theme-menu">
 	<head>
-		<link rel="stylesheet" href="../css/style.css" type="text/css" media="screen,projection">
-		<link rel="stylesheet" href="../css/responsive.css" type="text/css" media="screen,projection">	
-		<link rel="stylesheet" href="../css/toastr.min.css" type="text/css" media="screen,projection">
+		<link rel="stylesheet" href="../menu/menu.css" type="text/css" media="screen,projection">
 	</head>
 
 	 <div class="boxed_wrapper">		
@@ -75,4 +73,4 @@
 	</div>
 </template>
 
-<script src="../js/menu.js"></script>
+<script src="menu.js"></script>
