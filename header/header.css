@@ -18,7 +18,6 @@
    1. Global styles
    ============================== */
 
-<<<<<<< HEAD
 .lower-content p{
   text-align: justify;
   color: black;
@@ -42,16 +41,6 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
 
 
 .boxed_wrapper {
-=======
-ul {list-style-type: none;}
-
-a {text-decoration: none;display: inline-block;outline: none;}
-a:hover,a:focus,a:visited {text-decoration: none; outline: none;}
-
-.boxed_wrapper {
-	font-family: 'Poppins', sans-serif;
-	font-size: 15px;
->>>>>>> 904e3c768c97ab3746f5f2417fc922516f1966a8
     width: 100%;
     background: #fff;
     overflow-x: hidden;
