@@ -472,6 +472,10 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
   content: url(mail.png);
 }
 
+.icon-signs:before {
+  content: url(address.png);
+}
+
 a {
   color: white;
 }
