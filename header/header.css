@@ -18,6 +18,31 @@
    1. Global styles
    ============================== */
 
+<<<<<<< HEAD
+.lower-content p{
+  text-align: justify;
+  color: black;
+  word-wrap: break-word;
+}
+h1,h2,h3,h4,h5,h6,p,ul { margin:0;padding: 0;}
+h1,h2,h3,h4,h5 {
+  font-family: 'Poppins', sans-serif;
+}
+
+ul {list-style-type: none;}
+
+p {font-family: 'Hind', sans-serif;font-size: 16px;color: #848484;line-height: 26px; font-weight: 300;}
+a {text-decoration: none;display: inline-block;outline: none;}
+a:hover,a:focus,a:visited {text-decoration: none; outline: none;}
+
+img {max-width: 100%;display: inline-block;}
+
+button {border:none; outline:none; box-shadow: none; display: block; padding: 0; background: transparent;}
+input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px; line-height: 28px; outline: none; box-shadow: none;transition: all 0.3s ease-in-out;}
+
+
+.boxed_wrapper {
+=======
 ul {list-style-type: none;}
 
 a {text-decoration: none;display: inline-block;outline: none;}
@@ -26,6 +51,7 @@ a:hover,a:focus,a:visited {text-decoration: none; outline: none;}
 .boxed_wrapper {
 	font-family: 'Poppins', sans-serif;
 	font-size: 15px;
+>>>>>>> 904e3c768c97ab3746f5f2417fc922516f1966a8
     width: 100%;
     background: #fff;
     overflow-x: hidden;
@@ -160,6 +186,10 @@ a:hover,a:focus,a:visited {text-decoration: none; outline: none;}
     background: rgba(255,255,255,0.75);
 }
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> 904e3c768c97ab3746f5f2417fc922516f1966a8
 .uppercase {
   text-transform: uppercase;
 }
@@ -331,9 +361,12 @@ a {
 	color: white;
 	text-decoration: none;
 }
+<<<<<<< HEAD
+=======
 
 
 
 
 
 
+>>>>>>> 904e3c768c97ab3746f5f2417fc922516f1966a8
