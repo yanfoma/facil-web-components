@@ -162,11 +162,11 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
   font-size: 14px;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #3841b2;
+  color: #387eb2;
   font-weight: 600;
 }
 .default_link:hover {
-  color: #3841b2;
+  color: #387eb2;
 }
 
 .btn-style-one{
@@ -174,18 +174,18 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
     padding:8px 25px 9px;
     line-height:26px;
     text-transform:capitalize;
-    background:#3841b2;
+    background:#387eb2;
     color:#ffffff !important;
     font-size:16px;
     font-weight:600;
-    border:2px solid #3841b2 !important;
+    border:2px solid #387eb2 !important;
     border-radius:1px;
     font-family: 'Titillium Web', sans-serif;
 }
 
 .btn-style-one:hover{
-    color:#3841b2 !important;
-    border-color:#3841b2 !important;
+    color:#387eb2 !important;
+    border-color:#387eb2 !important;
     background:none;
 }
 
@@ -308,12 +308,12 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
 
 .thm-btn {
   position: relative;
-  background: #3841b2;
+  background: #387eb2;
   font-size: 14px;
   line-height: 46px;
   font-weight: 600;
   color: #ffffff;
-  border: 2px solid #3841b2;
+  border: 2px solid #387eb2;
   text-transform: uppercase;
   font-family: 'Poppins', sans-serif;
   display: inline-block;
@@ -322,7 +322,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
 }
 .thm-btn:hover {
   background: transparent;
-  color: #3841b2;
+  color: #387eb2;
   transition: all .5s cubic-bezier(0.4, 0, 1, 1);
 }
 
@@ -377,7 +377,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
     left: 0;
     width: 50px;
     height: 1px;
-    background: #3841b2;
+    background: #387eb2;
 }
 .section-title.center:after {
     left: 50%;
@@ -428,7 +428,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
   height: 2px;
   position: absolute;
   content: "";
-  background: #3841b2;
+  background: #387eb2;
   left: 0;
   bottom: 0;
   transform: scaleX(0);
@@ -543,7 +543,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
   font-size: 18px;
   font-weight: 300;
   font-family: "Hind", Sans-serif;
-  color: #3841b2;
+  color: #387eb2;
 }
 
 
@@ -593,7 +593,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
 
 .default-cinfo li .icon_box i {
   font-size: 20px;
-  color: #3841b2;
+  color: #387eb2;
   position: relative;
   top: 7px;
 }
@@ -718,15 +718,15 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
   outline: none !important;
 }
 .default-form  .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
-  background-color: #3841b2;
+  background-color: #387eb2;
   color: #fff;
 }
 .default-form .form-control:focus {
-  border-color: #3841b2;
+  border-color: #387eb2;
   box-shadow: none;
 }
 .default-form .form-control:hover {
-  border-color: #3841b2;
+  border-color: #387eb2;
   box-shadow: none;
 }
 
@@ -738,7 +738,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
   content: "\f107";
   font-family: FontAwesome;
   font-size: 16px;
-  color: #3841b2;
+  color: #387eb2;
   width: 20px;
   right: 15px;
   top: 50%;
@@ -793,7 +793,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
     color: #222;
 }
 .default-form .dropdown-menu>li>a:hover {
-    background-color: #3841b2 !important;
+    background-color: #387eb2 !important;
     color: #fff !important;
 }
 
@@ -822,7 +822,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
 
 
 .default-form .alert-success {
-    color: #3841b2;
+    color: #387eb2;
     background: none;
     border: none;
     font-size: 18px;
@@ -867,7 +867,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
   line-height: 25px;
 }
 .author-details .item .content p i {
-  color: #3841b2;
+  color: #387eb2;
   margin-right: 5px;
 }
 
@@ -936,7 +936,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
   height: 50px;
 }
 .consultations .default-form input:focus{
-  border-color: #3841b2;
+  border-color: #387eb2;
 }
 .consultations .default-form textarea{
   height: 190px;
@@ -989,7 +989,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
 
 
 .consultations .contact-info{
-  border: 2px solid #3841b2;
+  border: 2px solid #387eb2;
   padding: 24px 28px 12px;
   margin-bottom: 20px;
 }
@@ -1020,7 +1020,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
   top:0px;
   line-height:24px;
   font-size: 16px;
-  color: #3841b2;
+  color: #387eb2;
 }
 
 
@@ -1051,7 +1051,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
 .page_pagination li a.active,
 .page_pagination li a:hover {
   color:#fff;
-  background: #3841b2;
+  background: #387eb2;
 }
 
 
@@ -1098,7 +1098,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
   transition: .5s ease;
 }
 .our-services .single-our-service:hover h4 {
-  color: #3841b2;
+  color: #387eb2;
   transition: .5s ease;
 
 }
@@ -1167,12 +1167,12 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
 
 .our-services .single-our-service .thm-btn {
   background: transparent;
-  color: #3841b2;
+  color: #387eb2;
   border-color: #848484;
 }
 .our-services .single-our-service .thm-btn:hover {
-  background: #3841b2;
+  background: #387eb2;
   color: #fff;
-  border-color: #3841b2;
+  border-color: #387eb2;
 }
 

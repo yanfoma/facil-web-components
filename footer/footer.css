@@ -337,12 +337,12 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
 }
 
 .main-footer .links-widget .list li a:hover:before{
-  background: #3841b2;
+  background: #387eb2;
   transition: .5s ease-in-out;
 }
 
 .main-footer .links-widget .list li a:hover{
-  color: #3841b2;
+  color: #387eb2;
 }
 
 .main-footer .contact-widget{

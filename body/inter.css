@@ -1,6 +1,6 @@
 .testimonial-section .testimonial-column .owl-controls .owl-nav [class*="owl-"]:hover {
-    background-color: #3841b2 !important;
-    border-color: #3841b2;
+    background-color: #387eb2 !important;
+    border-color: #387eb2;
     color: #ffffff;
 }
 
@@ -35,7 +35,7 @@ padding-bottom: 50px;
 }
 
 .service .item .icon_box span {
-    color: #3841b2;
+    color: #387eb2;
     font-size: 40px;
 }
 
@@ -51,7 +51,7 @@ padding-bottom: 50px;
     top: 0px;
     width: 100%;
     height: 0%;
-    background: #3841b2;
+    background: #387eb2;
     transition: .5s cubic-bezier(0.4, 0, 1, 1);
     opacity: 0;
     visibility: hidden;
@@ -140,7 +140,7 @@ best-service-section
     top:0px;
     width:100%;
     height:100%;
-    background:#3841b2;
+    background:#387eb2;
 }
 
 .service-block-two .inner-box:hover .image-layer{
@@ -157,7 +157,7 @@ best-service-section
     text-align:center;
     color:#ffffff;
     font-size:34px;
-    background-color:#3841b2;
+    background-color:#387eb2;
     z-index:2;
     transition:all 500ms ease;
     -moz-transition:all 500ms ease;
@@ -205,12 +205,12 @@ best-service-section
 }
 
 .service-block-two:hover .inner-box{
-    background:#3841b2;
+    background:#387eb2;
 }
 
 .service-block-two:hover .inner-box .icon-box{
     background:#ffffff;
-    color:#3841b2;
+    color:#387eb2;
 }
 
 .service-block-two:hover .inner-box h3,
@@ -436,12 +436,12 @@ padding:0px;
 
 .services-block-two .inner-box:hover{
     border-color: #2796ff;
-    background-color:#3841b2;
+    background-color:#387eb2;
 }
 
 .services-block-two .inner-box .icon-box{
     position:relative;
-    color:#3841b2;
+    color:#387eb2;
     font-size:50px;
     line-height:1em;
     margin-bottom:18px;
@@ -567,7 +567,7 @@ Video Gallery Area style
 }
 
 .single-featured-box.bg-two{
-    background: #3841b2;
+    background: #387eb2;
 }
 .single-featured-box.bg-three{
     background: #f87845;
@@ -702,7 +702,7 @@ Video Gallery Area style
     top: 0px;
     width: 100%;
     height: 100%;
-    background: #3841b2;
+    background: #387eb2;
 }
 
 .services-style-one .inner .icon-box{
@@ -759,7 +759,7 @@ Video Gallery Area style
     position:relative;
     width:50px;
     height:50px;
-    color:#3841b2;
+    color:#387eb2;
     text-align: center;
     top: 16px;
     line-height:48px;
@@ -777,8 +777,8 @@ Video Gallery Area style
 }
 
 .services-style-one .inner:hover .arrow-box{
-    background-color:#3841b2;
-    border-color:#3841b2;
+    background-color:#387eb2;
+    border-color:#387eb2;
     color:#ffffff;
 
 }
@@ -791,7 +791,7 @@ Video Gallery Area style
     font-weight: bold;
     margin-bottom: 40px;
     text-transform: capitalize;
-    color: #3841b2;
+    color: #387eb2;
 }
 
 /***
@@ -848,7 +848,7 @@ Testimonial style
     max-width: 450px;
     width: 100%;
     margin-right: 20px;
-    background-color: #3841b2;
+    background-color: #387eb2;
 }
 
 .fluid-section-two .testimonial-column .inner .testimonial-inner .quote-icon {
@@ -858,7 +858,7 @@ Testimonial style
     width: 55px;
     height: 55px;
     padding-top: 10px;
-    color: #3841b2;
+    color: #387eb2;
     font-size: 24px;
     line-height: 46px;
     text-align: center;
@@ -936,7 +936,7 @@ Testimonial style
 
 .fluid-section-two .testimonial-column .inner h2 span,
 .fluid-section-two .content-column .inner h2 span {
-    color: #3841b2;
+    color: #387eb2;
 }
 
 .fluid-section-two .featured-info-block {
@@ -1001,7 +1001,7 @@ Testimonial style
 }
 
 .fluid-section-two .featured-info-block .inner-box h3 a:hover {
-    color: #3841b2;
+    color: #387eb2;
 }
 
 .fluid-section-two .featured-info-block .inner-box .text {

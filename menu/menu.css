@@ -55,11 +55,11 @@
   font-size: 14px;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #3841b2;
+  color: #387eb2;
   font-weight: 600;
 }
 .default_link:hover {
-  color: #3841b2;
+  color: #387eb2;
 }
 
 .btn-style-one{
@@ -67,18 +67,18 @@
     padding:8px 25px 9px;
     line-height:26px;
     text-transform:capitalize;
-    background:#3841b2;
+    background:#387eb2;
     color:#ffffff !important;
     font-size:16px;
     font-weight:600;
-    border:2px solid #3841b2 !important;
+    border:2px solid #387eb2 !important;
     border-radius:1px;
     font-family: 'Titillium Web', sans-serif;
 }
 
 .btn-style-one:hover{
-    color:#3841b2 !important;
-    border-color:#3841b2 !important;
+    color:#387eb2 !important;
+    border-color:#387eb2 !important;
     background:none;
 }
 
@@ -126,7 +126,7 @@
 
 .rating {
     font-size: 14px;
-    color: #3841b2;
+    color: #387eb2;
 }
 
 ::-webkit-scrollbar {
@@ -169,7 +169,7 @@
 }
 
 .thm-color {
-  color: #3841b2;
+  color: #387eb2;
 }
 
 .bold {
@@ -244,7 +244,7 @@
     left: 0;
     width: 50px;
     height: 1px;
-    background: #3841b2;
+    background: #387eb2;
 }
 .section-title.center:after {
     left: 50%;
@@ -276,7 +276,7 @@
     left: 0;
     width: 50px;
     height: 1px;
-    background: #3841b2;
+    background: #387eb2;
 }
 .inner-title h4 {
   font-size: 20px;
@@ -291,7 +291,7 @@
     right: 30px;
     z-index: 99;
     display: none;
-    color: #3841b2;
+    color: #387eb2;
     background: #10252e;
     text-align: center;
     border: 2px solid #19333e;
@@ -456,11 +456,11 @@
     transition: .5s ease;
 }
 .menuzord-menu > li.active a {
-    border-color: #3841b2;
-    color: #3841b2;
+    border-color: #387eb2;
+    color: #387eb2;
 }
 .menuzord-menu > li > a:hover {
-  color: #3841b2;
+  color: #387eb2;
   transition: .5s ease;
 }
 
@@ -482,7 +482,7 @@
 .menuzord-menu ul.dropdown li:hover > a {
     padding-left: 0px;
     padding-right: 0px;
-    color: #3841b2;
+    color: #387eb2;
     transition: .5s ease-in-out;
     font-size: 14px;
 }
@@ -545,7 +545,7 @@
 }
 .default-form.register-form .thm-color:hover,
 .default-form.register-form .thm-color-2:hover {
-  color: #3841b2;
+  color: #387eb2;
   transition: .5s ease;
 }
 
@@ -568,7 +568,7 @@
   line-height: 15px;
   height: 15px;
   color: #222;
-  background: #3841b2;
+  background: #387eb2;
   font-family: "FontAwesome";
 
 }
@@ -603,7 +603,7 @@
   position: absolute;
   top: 0;
   right: -20px;
-  color: #3841b2;
+  color: #387eb2;
 }
 .nav_side_content .cart_select>button i {
   font-size: 18px;
@@ -630,7 +630,7 @@
     margin: 0;
     left: auto;
     right: 0;
-    border-color: #3841b2;
+    border-color: #387eb2;
     top: 70px;
 }
 .nav_side_content .search_option form input {
@@ -654,7 +654,7 @@
   position: absolute;
   top:5px;
   right:5px;
-  color:#3841b2;
+  color:#387eb2;
 }
 .nav_side_content .cart_select {
   border-left: 1px solid #ececec;
@@ -723,8 +723,8 @@
     transition: .5s ease;
 }
 .testimonials-section .owl-theme .owl-prev i:hover {
-    color: #3841b2;
-    border-color: #3841b2;
+    color: #387eb2;
+    border-color: #387eb2;
     transition: .5s ease;
 }
 .testimonials-section .owl-theme .owl-next {
@@ -741,8 +741,8 @@
     transition: .5s ease;
 }
 .testimonials-section .owl-theme .owl-next i:hover {
-    color: #3841b2;
-    border-color: #3841b2;
+    color: #387eb2;
+    border-color: #387eb2;
     transition: .5s ease;
 }
 

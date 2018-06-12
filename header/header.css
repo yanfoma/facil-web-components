@@ -84,11 +84,11 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
   font-size: 14px;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #3841b2;
+  color: #387eb2;
   font-weight: 600;
 }
 .default_link:hover {
-  color: #3841b2;
+  color: #387eb2;
 }
 
 .btn-style-one{
@@ -96,18 +96,18 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
     padding:8px 25px 9px;
     line-height:26px;
     text-transform:capitalize;
-    background:#3841b2;
+    background:#387eb2;
     color:#ffffff !important;
     font-size:16px;
     font-weight:600;
-    border:2px solid #3841b2 !important;
+    border:2px solid #387eb2 !important;
     border-radius:1px;
     font-family: 'Titillium Web', sans-serif;
 }
 
 .btn-style-one:hover{
-    color:#3841b2 !important;
-    border-color:#3841b2 !important;
+    color:#387eb2 !important;
+    border-color:#387eb2 !important;
     background:none;
 }
 
@@ -155,7 +155,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
 
 .rating {
     font-size: 14px;
-    color: #3841b2;
+    color: #387eb2;
 }
 
 ::-webkit-scrollbar {
@@ -197,7 +197,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
 }
 
 .thm-color {
-  color: #3841b2;
+  color: #387eb2;
 }
 
 .bold {
@@ -272,7 +272,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
   top: 3px;
 }
 .top-bar .top-bar-info li i {
-    color: #3841b2;
+    color: #387eb2;
     margin-right: 10px;
     font-size: 20px;
     position: relative;
