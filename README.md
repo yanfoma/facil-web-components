@@ -1,5 +1,5 @@
 # Yanfoma Website Brochure (Site Vitrine)
-This is a component-based website. This website is supposed to be the fed by the facil-CMS. Couple of things to know about this architecture below.
+This is a component-based website. This website is supposed to be fed by the facil-CMS. Couple of things to know about this architecture below.
 
 ## The architecture
 
@@ -20,6 +20,9 @@ Everything is still under bootstrap and is not simplified, not compressed, not m
 
 ### Progressive
 This is more related to the behaviour according to the connectivity by using PWA techniques.
+
+### Testing components
+Some errors in the console can be tested or behaviour testing can be applied here.
 
 ## Next step
 The next step will be to build and admin page to control the state of each component of this website.
