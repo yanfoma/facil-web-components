@@ -1,6 +1,10 @@
 # Yanfoma Website Brochure (Site Vitrine)
 This is a component-based website. This website is supposed to be fed by the facil-CMS. Couple of things to know about this architecture below.
 
+## The Documentation
+
+Official Documentation https://github.com/yanfoma/facil-web-components/wiki
+
 ## The architecture
 
 ### The theme components
